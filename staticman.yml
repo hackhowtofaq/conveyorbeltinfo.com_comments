@@ -87,7 +87,7 @@ comments:
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
-  path: "{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path: "" # "/_data/comments/{options.slug}" (default)
 
 
   # List of transformations to apply to any of the fields supplied. Keys are
